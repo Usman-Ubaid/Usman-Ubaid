@@ -3,7 +3,7 @@
 👨‍💻️ A Software Developer (front-end development) 
 
 - 🔭 Currently working on and learning about TypeScript, NodeJS, and SQL. 
-- 🌱 Courses that I've taken:
+- 🌱 Courses that I've taken recently:
     - [Introduction to Node.js](https://frontendmasters.com/courses/node-js-v3/)
     - [API Design in Node.js](https://frontendmasters.com/courses/api-design-nodejs-v4/)
   
