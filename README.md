@@ -23,7 +23,7 @@
 </p>
 
 🔗 Links
-- 🌐 [Website](https://usman-ubaid.github.io/usmanubaid/)
+- 🌐 [Website](https://usman-ubaid.github.io/portfolio/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/usmanubaid/)
 
 
