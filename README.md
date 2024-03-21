@@ -1,8 +1,8 @@
 ### 👋 Welcome to my GitHub Profile. 
 
-👨‍💻️ A Software Developer (front-end development) 
+👨‍💻️ A Full-Stack Developer
 
-- 🔭 Currently working on and learning about TypeScript, NodeJS, and SQL. 
+- 🔭 Currently working on and learning about NextJS. 
 - 🌱 Courses that I've taken recently:
     - [Introduction to Node.js](https://frontendmasters.com/courses/node-js-v3/)
     - [API Design in Node.js](https://frontendmasters.com/courses/api-design-nodejs-v4/)
