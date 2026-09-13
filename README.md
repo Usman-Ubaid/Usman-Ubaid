@@ -1,22 +1,25 @@
-# Hi there 👋 I'm Usman Ubaid  
+# Hi there 👋 I'm Usman Ubaid
 
-🎯 **Aspiring Web Developer | Civil Systems Engineer turned Coder | Lifelong Learner**  
+🎯 **Full-Stack Software Engineer | TypeScript, React, Node.js & NestJS**
 
-I’m passionate about building modern web applications and solving real-world problems with clean, scalable code.  
-Currently living in Germany 🇩🇪 and transitioning into the IT world after a background in engineering.  
+I’m a software engineer based in Berlin, Germany, who enjoys building practical web applications and solving real-world problems with clean, maintainable code.
+
+I work across the stack, from React interfaces and REST APIs to PostgreSQL databases, automated testing, and production support. I’m especially interested in backend development, API design, developer experience, and reliable software delivery.
 
 ---
 
 ### 🚀 Tech Stack
-- **Languages:** JavaScript (ES6+), TypeScript, Python  
-- **Frontend:** React, TailwindCSS  
-- **Backend:** Node.js, Express.js, REST APIs, Microservices  
-- **Databases:** MongoDB, PostgreSQL  
-- **Other Tools:** Git/GitHub, Docker, Postman, Vitest, Playwright  
+
+- **Languages:** JavaScript, TypeScript, Python
+- **Frontend:** React, Astro, Next.js, Tailwind CSS
+- **Backend:** Node.js, NestJS, Express.js, REST APIs, tRPC
+- **Databases:** PostgreSQL, MySQL, DynamoDB, Prisma
+- **Testing:** Playwright, Postman
+- **Cloud & Tools:** AWS, Docker, Kubernetes, Git/GitHub
 
 ---
 
 ### 📚 Currently Learning
-- Microservices with Node.js and React (Stephen Grider’s Udemy course)   
 
----
+- Improving my German 🇩🇪
+- Building better, more maintainable full-stack applications
