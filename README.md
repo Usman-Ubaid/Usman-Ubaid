@@ -11,9 +11,9 @@ I work across the stack, from React interfaces and REST APIs to PostgreSQL datab
 ### 🚀 Tech Stack
 
 - **Languages:** JavaScript, TypeScript, Python
-- **Frontend:** React, Astro, Next.js, Tailwind CSS
+- **Frontend:** React, Next.js, Tailwind CSS
 - **Backend:** Node.js, NestJS, Express.js, REST APIs, tRPC
-- **Databases:** PostgreSQL, MySQL, DynamoDB, Prisma
+- **Databases:** PostgreSQL, MySQL, DynamoDB
 - **Testing:** Playwright, Postman
 - **Cloud & Tools:** AWS, Docker, Kubernetes, Git/GitHub
 
