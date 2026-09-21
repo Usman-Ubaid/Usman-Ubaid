@@ -21,5 +21,5 @@ I work across the stack, from React interfaces and REST APIs to PostgreSQL datab
 
 ### 📚 Currently Learning
 
-- Improving my German 🇩🇪
-- Building better, more maintainable full-stack applications
+- Working on full-stack job-portal-application
+- Learning about "Fundamentals of Networking" from Udemy
